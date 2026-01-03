@@ -1,0 +1,18 @@
+{
+  "background_color": "#21284f",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "budgeteen-43770.bubbleapps",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "budgeteen-43770.bubbleapps",
+  "start_url": "/",
+  "theme_color": "#dca114",
+  "categories": [
+    "education",
+    "finance",
+    "kids"
+  ],
+  "id": "BudgeTeen",
+  "description": "BudgeTeen: The app to track, educate, and improve the finances of teenagers"
+}
